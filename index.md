@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html leng = "en">
 
 <head>
