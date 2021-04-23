@@ -21,6 +21,30 @@
 </head>
 
 <body>
+	<nav class="navbar navbar-expand-md bg-dark navbar-darkk sticky-top">
+ 	 <a class="navbar-brand" href="#">Navbar</a>
+ 	 <button class="navbar-toggler" type="button" data-toggle="collapse" data target="#collapsibleNavbar">
+   		 <span class="navbar-toggler-icon"></span>
+ 	 </button>
+ 	 <div class="collapse navbar-collapse" id="collapsibleNavbar">
+   		 <ul class="navbar-nav">
+			<li class="nav-item  dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">公司</a>
+				<div class="dropdown-menu">
+					<a class="dropdown-item" href="#">台積電</a>
+					<a class="dropdown-item" href="#">聯電</a>
+					<a class="dropdown-item" href="#">世界先進</a>
+			</div>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Link</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#">Link</a>
+			</li>    
+  		  </ul>
+	  </div>  
+	</nav>
 	<div class="jumbotron text-center" style="background:rgb(190,215,235)">
 		<h2>財報分析</h2>
 		<p>從宏觀角度分析財務報表</p>
