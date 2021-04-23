@@ -1,0 +1,83 @@
+!DOCTYPE html>
+
+<html leng = "en">
+
+	<head>
+		<title>財報分析</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+		<style>
+		</style>
+	</head>
+	<body>
+		<nav class="navbar navbar-expand-md bg-dark navbar-darkk sticky-top">
+		<a class="navbar-brand" href="#">財報分析</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="collapsibleNavbar">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link" href="首頁.html">首頁</a>
+					</li> 
+					<li class="nav-item  dropdown">
+						<a class="nav-link dropdown-toggle" href="doc" id="navbardrop" data-toggle="dropdown">公司簡介</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="doc/台積電.html">台積電</a>
+							<a class="dropdown-item" href="doc/聯電.html">聯電</a>
+							<a class="dropdown-item" href="doc/世界先進.html">世界先進</a>
+						</div>
+					</li>
+					<li class="nav-item  dropdown">
+						<a class="nav-link dropdown-toggle" href="doc/ana" id="navbardrop" data-toggle="dropdown">財報分析</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item" href="doc/ana競爭力.html">競爭力</a>
+							<a class="dropdown-item" href="doc/ana經營理念.html">經營理念</a>
+							<a class="dropdown-item" href="doc/ana經營績效.html">經營績效</a>
+							<a class="dropdown-item" href="doc/ana企業短期風險.html">企業短期風險</a>
+							<a class="dropdown-item" href="doc/ana風險偏好和財務強度.html">風險偏好和財務強度</a>
+							<a class="dropdown-item" href="doc/ana穩健性.html">穩健性</a>
+						</div>
+					</li>
+					   
+				</ul>
+			</div>  
+	</nav>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					
+					<h1>財務報表分析</h1> 
+				</div>
+				<div class="col-md-6">
+					<img src ="http://blog.statementdog.com/blog/wp-content/uploads/2010/10/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2016-09-29-%E4%B8%8B%E5%8D%8810.19.55.jpg" width="100%">
+				</div>
+				<div class="col-md-6">
+					<h2>前言</h2>
+					<p>跨科系組合的我們，期望期中報告內容能結合各自領域知識，
+					遂在討論主題過程，各自提出自己的想法，並試著結合不同
+					領域的元素，進而激盪出現在的主題--財務報表分析。讓小
+					小的期中報告帶來的收穫不是只侷限在團隊合作能力，而是
+					老師與學校鼓勵的跨領域結合的能力。透過跨領域的機會，
+					讓來自不同科系的學生獲得有別於本科知識的收穫，開闊自
+					己的視野。</p>
+					<h2>財務報表分析概要</h2>
+					<p>藉由財務報表的數字能夠透露一家公司的產業類別，與衡
+					量企業執行先前的策略是否有成效，此外，也可以評估與
+					競爭者之間是否有競爭力的一項工具。
+					</p>
+				</div>
+				<div class="col-md-12">
+					<a href="http://acc.thu.edu.tw/">東海大學會計學系</a>
+					<p>胡譽庭</p>
+					<a href="http://ba.thu.edu.tw/">東海大學企管系</a>
+					<p>張恩慈 張淞復 鍾秉謙 許孟淳</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
