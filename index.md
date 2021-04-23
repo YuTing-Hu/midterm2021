@@ -31,14 +31,14 @@
 	
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12 col-xl-12">
+			<div class="col-sm-12">
 				<h2>競爭力</h2>
 			</div>
-			<div class="col-sm-2 col-xl-12">
+			<div class="col-sm-2">
 			<p>晶圓代工產業屬於資本密集產業，因此固定資產通常比較多，因此我們可以從資產的比例看出資本密集產業的競爭力。</p>
 			<p>以下分別是台積電、聯電和世界先進三家晶圓代工廠財務報表資產項下，比例較高的科目。</p>
 			</div>
-			<div class="col-sm-10 col-xl-12">
+			<div class="col-sm-10">
 			<table>
 			<tr>
 				<td><iframe src="https://plotdb.io/v/chart/29038" width="70%" height="350px" allowfullscreen="true" frameborder="0"></iframe></td>
@@ -59,16 +59,16 @@
     
     <div class="container">
 		<div class="row">
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<h2>經營理念</h2>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-4 col-xl-12">
+			<div class="col-lg-4">
 				<p>在資產負債表中，從各資產的比例可以看出一家企業經營理念，資產越乾淨越好。</p>
 				<p>營業上必須的資產佔據越高比例對一家企業越好，以晶圓代工業為例，晶圓代工業必要的科目有:</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-2 col-xl-2">
+			<div class="col-lg-2">
 				<table border = "1">
 					<caption>晶圓代工業營業所必需的科目</caption>
 					<tr>
@@ -106,7 +106,7 @@
 				</table>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-6 col-xl-10">
+			<div class="col-lg-6">
 				<iframe src="https://plotdb.io/v/chart/29057" width="100%" height="450px" allowfullscreen="true" frameborder="0"></iframe>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
@@ -117,19 +117,19 @@
     
     <div class="container">
 		<div class="row">
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<h2>經營績效</h2>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>由於晶圓代工業為資本密集產業，如果我們要分析其經營績效可以從資產周轉率下手，總資產除以營收即可算出一家公司的資產周轉率。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-md-6 col-xl-12">
+			<div class="col-md-6">
 				<iframe src="https://plotdb.io/v/chart/29058" width="100%" height="300px" allowfullscreen="true" frameborder="0"></iframe>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-md-6 col-xl-12">
+			<div class="col-md-6">
 				<p>從表中我們可以看出世界先進的經營績效做好，台積電和聯電差不多。但我們需要注意的是，是界先進的產品和台積電和聯電生產的產品有主要的差異，機器設備被用來製造不同的商品，因此並不能說世界先進比台積電或聯電好。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
@@ -138,21 +138,21 @@
     
     <div class="container">
 		<div class="row">
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<h2>企業短期風險</h2>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-2 col-xl-12">
+			<div class="col-lg-2">
 				<p>在分析企業短期風險時，需要先分析其商業模式，我們可以透過應收帳款週轉天數和應負帳款周轉天數來判斷其商業模式。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-10 col-xl-12">
+			<div class="col-lg-10">
 			
 				<p>台積電、聯電和世界先進的應收帳款周轉天數:</p>
 				<iframe src="https://plotdb.io/v/chart/29059" width="50%" height="300px" allowfullscreen="true" frameborder="0"></iframe>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-6 col-xl-12">
+			<div class="col-lg-6">
 				<table border = 1>
 					<caption>應收帳款週轉天數</caption>
 					<tr>
@@ -186,7 +186,7 @@
 				</table>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-6 col-xl-12">
+			<div class="col-lg-6">
 				<table border = 1>
 					<caption>應付帳款週轉天數</caption>
 					<tr>
@@ -220,7 +220,7 @@
 				</table>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<table border = 1>
 					<caption>商業模式</caption>
 					<tr>
@@ -254,23 +254,23 @@
 				</table>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>從應收帳款周轉天數和應負帳款周轉天數我們可以看出，不管是台積電還是聯電又或者是世界先進，他們都是收錢比付錢慢，因此現金就須要準備較多，在短期風險的應對上，就不能用流量的方式要用存量的方式，保留一定的現金以備不時之需。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>分析完三家企業的商業模式後，接下來要分析他們對短期風險的應對能力</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>企業短期風險的應對能力可以用流動比率來判斷。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-8 col-xl-12">
+			<div class="col-lg-8">
 				<iframe src="https://plotdb.io/v/chart/29060" width="100%" height="300px" allowfullscreen="true" frameborder="0"></iframe>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-4 col-xl-12">
+			<div class="col-lg-4">
 				<table border = 1>
 					<caption>流動比率</caption>
 					<tr>
@@ -300,7 +300,7 @@
 				</table>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>我們可以看到聯電的流動比率最高台積電最低，因此我們可以說聯電在應對短期風險上有較多的準備，但是三家企業都在安全範圍內，因此都不需要過度擔心。
 				<!--coded by S07430118 胡譽庭-->
 			</div>
@@ -309,11 +309,11 @@
     
     <div class="container">
 		<div class="row">
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<h2>經營者風險偏好和財務強度</h2>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>從負債比率可以看出經營者的風險偏好和財務強度，台灣企業普遍教保守，負債比例都不會太高，和許多美國的企業相比，相較低很多，這和各國的文化差異有關係。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
@@ -366,18 +366,18 @@
     
     <div class="container">
 		<div class="row">
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<h2>穩健性</h2>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-8 col-xl-12">
+			<div class="col-lg-8">
 				<p>除了利用流動比率可以看出一家企業對於短期風險的應對能力外，從財報中找出企業一個月所必須的花費並寄算其現金能夠讓他存活多久是一個更好的分析方式。</p>
 				<p>首先我們先分析台積電的現金可以讓她存活多久。</p>
 				<p>台積電每年的必要花費除了銷售費用、管理費用、研發費用、稅等，每年都需要購置新的固定資產，股利也屬於台積電的必要花費，當我在計算必要花費時需要注意，要將折舊費用等實際上並不會產生現金流量的科目加回來。</p>
 				<p>根據右邊表格的計算，台積電的現金可以讓她存活2.68個月</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-4 col-xl-12">
+			<div class="col-lg-4">
 				<table border ="1">
 					<caption>台積電的現金可以讓她存活多久</caption>
 					<tr>
@@ -422,7 +422,7 @@
 			
 			<hr>
 			
-			<div class="col-lg-6 col-xl-12">
+			<div class="col-lg-6">
 				<p>接著我們來分析聯電，聯電的必要支出和台積電類似只是少了股利而已。</p>
 				<p>聯電的現金可以讓他存活8.69個月，這一個數字除了表示聯電有足夠的現金以外，此時我們也需要思考這是否代表連電現金了，這就需要依靠其他的分析才能知道，也許聯電的花費並不只這些，也有可能她只是剛好有需要用到比較多的現金，這一個數字告訴了我們，在現金的部分我們需要多注意。</p>
 				<table border ="1" >
@@ -463,7 +463,7 @@
 				<!--coded by S07430118 胡譽庭-->
 			</div>
 			
-			<div class="log-lg-6 col-xl-12">
+			<div class="log-lg-6">
 				<p>最後我們來分析世界先進</p>
 				<p>世界先進每年的必要花費和聯電差不多。</p>
 				<p>根據我們的計算，世界先進的現金可以讓她存活約4.16個月!</p>
@@ -505,7 +505,7 @@
 				<!--coded by S07430118 胡譽庭-->
 			</div>
 			<hr>
-			<div class="col-lg-12 col-xl-12">
+			<div class="col-lg-12">
 				<p>從上述的分析在COVID-19肆虐的時候特別重要，個企業開始停工，有沒有現金能夠讓企業存活下來就是一個很大的關鍵。如果只依照上述資料做結論的話，我們可以說，聯電是最能夠在遇到危機時，較能夠存活下來。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
