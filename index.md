@@ -68,7 +68,7 @@
 				<p>營業上必須的資產佔據越高比例對一家企業越好，以晶圓代工業為例，晶圓代工業必要的科目有:</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-2 col-xl-12">
+			<div class="col-lg-2 col-xl-2">
 				<table border = "1">
 					<caption>晶圓代工業營業所必需的科目</caption>
 					<tr>
@@ -106,7 +106,7 @@
 				</table>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-6 col-xl-12">
+			<div class="col-lg-6 col-xl-10">
 				<iframe src="https://plotdb.io/v/chart/29057" width="100%" height="450px" allowfullscreen="true" frameborder="0"></iframe>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
