@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html leng = "en">
 
 <head>
@@ -22,7 +24,7 @@
 
 <body>
 	<div class="jumbotron text-center" style="background:rgb(190,215,235)">
-		<h2>財報分析</h2>
+		<h2 style="background:rgb(190,215,235)">財報分析</h2>
 		<p>從宏觀角度分析財務報表</p>
 		<!--coded by S07430118 胡譽庭-->
 	</div>
