@@ -125,11 +125,11 @@
 				<p>由於晶圓代工業為資本密集產業，如果我們要分析其經營績效可以從資產周轉率下手，總資產除以營收即可算出一家公司的資產周轉率。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-6 col-xl-12">
+			<div class="col-md-6 col-xl-12">
 				<iframe src="https://plotdb.io/v/chart/29058" width="100%" height="300px" allowfullscreen="true" frameborder="0"></iframe>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
-			<div class="col-lg-6 col-xl-12">
+			<div class="col-md-6 col-xl-12">
 				<p>從表中我們可以看出世界先進的經營績效做好，台積電和聯電差不多。但我們需要注意的是，是界先進的產品和台積電和聯電生產的產品有主要的差異，機器設備被用來製造不同的商品，因此並不能說世界先進比台積電或聯電好。</p>
 				<!--coded by S07430118 胡譽庭-->
 			</div>
